@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import './assets/vendor/bootstrap/js/bootstrap.bundle.min.js';
+import '../node_modules/swiper/swiper-bundle.js';
+import './assets/js/main.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
